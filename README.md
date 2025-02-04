@@ -1,7 +1,7 @@
 emotion-detection-dvc
 ==============================
 
-MlOps Project With dvc
+"This project is entirely managed using DVC for data versioning and experiment tracking."
 
 Project Organization
 ------------
